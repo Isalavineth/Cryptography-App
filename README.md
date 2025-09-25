@@ -18,12 +18,15 @@
 ## Screenshots
 
 ![Main Menu](screenshots/main_menu.png)
+
 *Main Menu: Choose Encrypt or Decrypt*
 
 ![Encryption Menu](screenshots/encrypt_menu.png)
+
 *Encrypt your files and save the key*
 
 ![Decryption Menu](screenshots/decrypt_menu.png)
+
 *Decrypt files using an imported key*
 
 ---
